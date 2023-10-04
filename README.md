@@ -38,9 +38,13 @@ seja possível recuperar as informações sobre as lojas que estão vendendo mai
 As seguintes informações precisam ser salvas: código do relatório, código da loja física,
 valor total de vendas, data início e data fim do relatório.
 
+PROJETO CONCEITUAL
+
+
 ![BD drawio](https://github.com/BiaWaldez/Banco_de_Dados/assets/144908943/afc5ad61-8b22-4137-ad1b-ab5a1034fccf)
 
 
 PROJETO LÓGICO
+
 
 ![ZÉ DELIVERY LOGICO](https://github.com/BiaWaldez/Banco_de_Dados/assets/144908943/e3406155-a8dd-414a-8f5f-ddbbf9f4996f)
